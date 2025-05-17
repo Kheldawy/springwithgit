@@ -1,7 +1,6 @@
 package com.example.springwithgit;
 
-//This is a comment
-public class User {
+public class Cool {
 
 
 
